@@ -1,0 +1,15 @@
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
