@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MvcProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\helpers\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\helpers\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A53C4-A8A4-4671-8215-237144B5DCC8}|Demo.DAL\\Demo.DAL.csproj|c:\\mvcproject\\demo.dal\\contextes\\mvcprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A53C4-A8A4-4671-8215-237144B5DCC8}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\contextes\\mvcprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A53C4-A8A4-4671-8215-237144B5DCC8}|Demo.DAL\\Demo.DAL.csproj|c:\\mvcproject\\demo.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A53C4-A8A4-4671-8215-237144B5DCC8}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\mappingprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\mappingprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44A53C4-A8A4-4671-8215-237144B5DCC8}|Demo.DAL\\Demo.DAL.csproj|c:\\mvcproject\\demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44A53C4-A8A4-4671-8215-237144B5DCC8}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|c:\\mvcproject\\demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58DC009D-2DA0-4050-B8A1-6AA80E9B6375}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\Helpers\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Helpers\\EmailSetting.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\Helpers\\EmailSetting.cs",
+              "RelativeToolTip": "Demo.PL\\Helpers\\EmailSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:36:29.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.PL\\appsettings.json",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\appsettings.json",
+              "RelativeToolTip": "Demo.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T17:50:42.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\MappingProfiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\MappingProfiles\\UserProfile.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\MappingProfiles\\UserProfile.cs",
+              "RelativeToolTip": "Demo.PL\\MappingProfiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:49:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:31:18.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:31:52.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAmwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:31:24.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\Startup.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Startup.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\Startup.cs",
+              "RelativeToolTip": "Demo.PL\\Startup.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:40:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MvcProjectDbContext.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.DAL\\Contextes\\MvcProjectDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Contextes\\MvcProjectDbContext.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.DAL\\Contextes\\MvcProjectDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Contextes\\MvcProjectDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:37:54.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:39:57.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:39:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:31:19.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:53:57.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:24:54.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MvcProject\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\MvcProject\\Demo.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T22:57:30.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

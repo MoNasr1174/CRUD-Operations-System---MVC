@@ -3,6 +3,7 @@ using Demo.PL.Helpers;
 using Demo.PL.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using MVC.DAL.Models;
 using System.Threading.Tasks;
 
 namespace Demo.PL.Controllers

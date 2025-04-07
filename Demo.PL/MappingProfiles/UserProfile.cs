@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Demo.DAL.Models;
 using Demo.PL.ViewModels;
+using MVC.DAL.Models;
 
 namespace Demo.PL.MappingProfiles
 {

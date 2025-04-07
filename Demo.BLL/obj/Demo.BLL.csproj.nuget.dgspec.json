@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.BLL\\Demo.BLL.csproj": {}
+    "C:\\MvcProject\\Demo.BLL\\Demo.BLL.csproj": {}
   },
   "projects": {
-    "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.BLL\\Demo.BLL.csproj": {
+    "C:\\MvcProject\\Demo.BLL\\Demo.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.BLL\\Demo.BLL.csproj",
+        "projectUniqueName": "C:\\MvcProject\\Demo.BLL\\Demo.BLL.csproj",
         "projectName": "Demo.BLL",
-        "projectPath": "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.BLL\\Demo.BLL.csproj",
-        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.BLL\\obj\\",
+        "projectPath": "C:\\MvcProject\\Demo.BLL\\Demo.BLL.csproj",
+        "packagesPath": "C:\\Users\\mohamed\\.nuget\\packages\\",
+        "outputPath": "C:\\MvcProject\\Demo.BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.DAL\\Demo.DAL.csproj": {
-                "projectPath": "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.DAL\\Demo.DAL.csproj"
+              "C:\\MvcProject\\Demo.DAL\\Demo.DAL.csproj": {
+                "projectPath": "C:\\MvcProject\\Demo.DAL\\Demo.DAL.csproj"
               }
             }
           }
@@ -38,7 +42,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net5.0": {
@@ -49,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,21 +69,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.DAL\\Demo.DAL.csproj": {
+    "C:\\MvcProject\\Demo.DAL\\Demo.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.DAL\\Demo.DAL.csproj",
+        "projectUniqueName": "C:\\MvcProject\\Demo.DAL\\Demo.DAL.csproj",
         "projectName": "Demo.DAL",
-        "projectPath": "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.DAL\\Demo.DAL.csproj",
-        "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "F:\\Aml_webDevelopment\\BackEnd\\MVC\\MvcProject\\Demo.DAL\\obj\\",
+        "projectPath": "C:\\MvcProject\\Demo.DAL\\Demo.DAL.csproj",
+        "packagesPath": "C:\\Users\\mohamed\\.nuget\\packages\\",
+        "outputPath": "C:\\MvcProject\\Demo.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,7 +107,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net5.0": {
@@ -113,7 +134,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -122,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

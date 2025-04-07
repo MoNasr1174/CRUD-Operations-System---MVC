@@ -13,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using MVC.DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -77,9 +78,9 @@ namespace Demo.PL
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseAuthorization();
             app.UseAuthentication();
 
-            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

@@ -4,6 +4,7 @@ using Demo.PL.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using MVC.DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
